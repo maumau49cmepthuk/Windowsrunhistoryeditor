@@ -214,4 +214,4 @@ WindowsRunHistoryEditor is offered as a **full free version** with all features 
 Unlock the full potential of your Windows Run dialog today by downloading WindowsRunHistoryEditor for free! Enjoy a more organized and efficient experience.
 
 ---
-**Last updated:** 2026-09-21 10:27:16 UTC
+**Last updated:** 2026-09-21 16:50:04 UTC
